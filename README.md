@@ -41,4 +41,4 @@ Ashish Kumar and Jairaj Vatham are close competitors — 322 vs 320 units
 Dashboard switches between 2 executive groups for complete team coverage
 City filter enables region-specific performance review in one click
 
-Screenshot Link:-
+Screenshot Link:-https://github.com/BadalKamble/-End-to-End-Sales-Performance-Dashboard/blob/main/End-to-End%20Sales%20Performance%20Dashboard%20Screenshot.png
